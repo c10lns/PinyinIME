@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "/Users/chenshihang/Downloads/PinyinIME-master/app/src/main/cpp/CMakeLists.txt",
+    "/Users/chenshihang/develop/android-sdk-macosx/ndk/21.1.6352462/build/cmake/android.toolchain.cmake",
+    "/Users/chenshihang/develop/android-sdk-macosx/ndk/21.1.6352462/build/cmake/platforms.cmake"
+  ],
+  "cleanCommands": [
+    "/Users/chenshihang/develop/android-sdk-macosx/cmake/3.10.2.4988404/bin/ninja -C \"/Users/chenshihang/Downloads/PinyinIME-master/app/.cxx/cmake/release/x86\" clean"
+  ],
+  "buildTargetsCommand": "/Users/chenshihang/develop/android-sdk-macosx/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/chenshihang/Downloads/PinyinIME-master/app/.cxx/cmake/release/x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "engine-Release-x86": {
+      "artifactName": "engine",
+      "buildCommand": "/Users/chenshihang/develop/android-sdk-macosx/cmake/3.10.2.4988404/bin/ninja -C \"/Users/chenshihang/Downloads/PinyinIME-master/app/.cxx/cmake/release/x86\" engine",
+      "abi": "x86",
+      "output": "/Users/chenshihang/Downloads/PinyinIME-master/app/.cxx/cmake/release/x86/libengine.a",
+      "runtimeFiles": []
+    },
+    "jni_pinyinime-Release-x86": {
+      "artifactName": "jni_pinyinime",
+      "buildCommand": "/Users/chenshihang/develop/android-sdk-macosx/cmake/3.10.2.4988404/bin/ninja -C \"/Users/chenshihang/Downloads/PinyinIME-master/app/.cxx/cmake/release/x86\" jni_pinyinime",
+      "abi": "x86",
+      "output": "/Users/chenshihang/Downloads/PinyinIME-master/app/build/intermediates/cmake/release/obj/x86/libjni_pinyinime.so",
+      "runtimeFiles": []
+    }
+  }
+}

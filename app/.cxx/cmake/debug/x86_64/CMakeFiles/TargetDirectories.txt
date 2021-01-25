@@ -1,0 +1,4 @@
+/Users/chenshihang/Downloads/PinyinIME-master/app/.cxx/cmake/debug/x86_64/CMakeFiles/rebuild_cache.dir
+/Users/chenshihang/Downloads/PinyinIME-master/app/.cxx/cmake/debug/x86_64/CMakeFiles/edit_cache.dir
+/Users/chenshihang/Downloads/PinyinIME-master/app/.cxx/cmake/debug/x86_64/CMakeFiles/engine.dir
+/Users/chenshihang/Downloads/PinyinIME-master/app/.cxx/cmake/debug/x86_64/CMakeFiles/jni_pinyinime.dir

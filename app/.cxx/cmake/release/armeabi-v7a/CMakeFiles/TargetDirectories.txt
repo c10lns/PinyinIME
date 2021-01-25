@@ -1,0 +1,4 @@
+/Users/chenshihang/Downloads/PinyinIME-master/app/.cxx/cmake/release/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/Users/chenshihang/Downloads/PinyinIME-master/app/.cxx/cmake/release/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/chenshihang/Downloads/PinyinIME-master/app/.cxx/cmake/release/armeabi-v7a/CMakeFiles/engine.dir
+/Users/chenshihang/Downloads/PinyinIME-master/app/.cxx/cmake/release/armeabi-v7a/CMakeFiles/jni_pinyinime.dir

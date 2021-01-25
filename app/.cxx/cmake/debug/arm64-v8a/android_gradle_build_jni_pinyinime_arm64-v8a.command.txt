@@ -1,0 +1,7 @@
+Executable : /Users/chenshihang/develop/android-sdk-macosx/cmake/3.10.2.4988404/bin/ninja
+arguments : 
+-C
+/Users/chenshihang/Downloads/PinyinIME-master/app/.cxx/cmake/debug/arm64-v8a
+jni_pinyinime
+jvmArgs : 
+

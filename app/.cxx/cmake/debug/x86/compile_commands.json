@@ -1,0 +1,175 @@
+[
+{
+  "directory": "/Users/chenshihang/Downloads/PinyinIME-master/app/.cxx/cmake/debug/x86",
+  "command": "/Users/chenshihang/develop/android-sdk-macosx/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android16 --gcc-toolchain=/Users/chenshihang/develop/android-sdk-macosx/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/chenshihang/develop/android-sdk-macosx/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot   -I/Users/chenshihang/Downloads/PinyinIME-master/app/src/main/cpp/src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -Wall -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/engine.dir/share/dictbuilder.cpp.o -c /Users/chenshihang/Downloads/PinyinIME-master/app/src/main/cpp/share/dictbuilder.cpp",
+  "file": "/Users/chenshihang/Downloads/PinyinIME-master/app/src/main/cpp/share/dictbuilder.cpp"
+},
+
+{
+  "directory": "/Users/chenshihang/Downloads/PinyinIME-master/app/.cxx/cmake/debug/x86",
+  "command": "/Users/chenshihang/develop/android-sdk-macosx/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android16 --gcc-toolchain=/Users/chenshihang/develop/android-sdk-macosx/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/chenshihang/develop/android-sdk-macosx/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot   -I/Users/chenshihang/Downloads/PinyinIME-master/app/src/main/cpp/src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -Wall -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/engine.dir/share/dictlist.cpp.o -c /Users/chenshihang/Downloads/PinyinIME-master/app/src/main/cpp/share/dictlist.cpp",
+  "file": "/Users/chenshihang/Downloads/PinyinIME-master/app/src/main/cpp/share/dictlist.cpp"
+},
+
+{
+  "directory": "/Users/chenshihang/Downloads/PinyinIME-master/app/.cxx/cmake/debug/x86",
+  "command": "/Users/chenshihang/develop/android-sdk-macosx/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android16 --gcc-toolchain=/Users/chenshihang/develop/android-sdk-macosx/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/chenshihang/develop/android-sdk-macosx/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot   -I/Users/chenshihang/Downloads/PinyinIME-master/app/src/main/cpp/src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -Wall -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/engine.dir/share/dicttrie.cpp.o -c /Users/chenshihang/Downloads/PinyinIME-master/app/src/main/cpp/share/dicttrie.cpp",
+  "file": "/Users/chenshihang/Downloads/PinyinIME-master/app/src/main/cpp/share/dicttrie.cpp"
+},
+
+{
+  "directory": "/Users/chenshihang/Downloads/PinyinIME-master/app/.cxx/cmake/debug/x86",
+  "command": "/Users/chenshihang/develop/android-sdk-macosx/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android16 --gcc-toolchain=/Users/chenshihang/develop/android-sdk-macosx/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/chenshihang/develop/android-sdk-macosx/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot   -I/Users/chenshihang/Downloads/PinyinIME-master/app/src/main/cpp/src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -Wall -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/engine.dir/share/lpicache.cpp.o -c /Users/chenshihang/Downloads/PinyinIME-master/app/src/main/cpp/share/lpicache.cpp",
+  "file": "/Users/chenshihang/Downloads/PinyinIME-master/app/src/main/cpp/share/lpicache.cpp"
+},
+
+{
+  "directory": "/Users/chenshihang/Downloads/PinyinIME-master/app/.cxx/cmake/debug/x86",
+  "command": "/Users/chenshihang/develop/android-sdk-macosx/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android16 --gcc-toolchain=/Users/chenshihang/develop/android-sdk-macosx/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/chenshihang/develop/android-sdk-macosx/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot   -I/Users/chenshihang/Downloads/PinyinIME-master/app/src/main/cpp/src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -Wall -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/engine.dir/share/mystdlib.cpp.o -c /Users/chenshihang/Downloads/PinyinIME-master/app/src/main/cpp/share/mystdlib.cpp",
+  "file": "/Users/chenshihang/Downloads/PinyinIME-master/app/src/main/cpp/share/mystdlib.cpp"
+},
+
+{
+  "directory": "/Users/chenshihang/Downloads/PinyinIME-master/app/.cxx/cmake/debug/x86",
+  "command": "/Users/chenshihang/develop/android-sdk-macosx/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android16 --gcc-toolchain=/Users/chenshihang/develop/android-sdk-macosx/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/chenshihang/develop/android-sdk-macosx/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot   -I/Users/chenshihang/Downloads/PinyinIME-master/app/src/main/cpp/src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -Wall -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/engine.dir/share/ngram.cpp.o -c /Users/chenshihang/Downloads/PinyinIME-master/app/src/main/cpp/share/ngram.cpp",
+  "file": "/Users/chenshihang/Downloads/PinyinIME-master/app/src/main/cpp/share/ngram.cpp"
+},
+
+{
+  "directory": "/Users/chenshihang/Downloads/PinyinIME-master/app/.cxx/cmake/debug/x86",
+  "command": "/Users/chenshihang/develop/android-sdk-macosx/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android16 --gcc-toolchain=/Users/chenshihang/develop/android-sdk-macosx/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/chenshihang/develop/android-sdk-macosx/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot   -I/Users/chenshihang/Downloads/PinyinIME-master/app/src/main/cpp/src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -Wall -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/engine.dir/share/searchutility.cpp.o -c /Users/chenshihang/Downloads/PinyinIME-master/app/src/main/cpp/share/searchutility.cpp",
+  "file": "/Users/chenshihang/Downloads/PinyinIME-master/app/src/main/cpp/share/searchutility.cpp"
+},
+
+{
+  "directory": "/Users/chenshihang/Downloads/PinyinIME-master/app/.cxx/cmake/debug/x86",
+  "command": "/Users/chenshihang/develop/android-sdk-macosx/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android16 --gcc-toolchain=/Users/chenshihang/develop/android-sdk-macosx/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/chenshihang/develop/android-sdk-macosx/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot   -I/Users/chenshihang/Downloads/PinyinIME-master/app/src/main/cpp/src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -Wall -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/engine.dir/share/spellingtable.cpp.o -c /Users/chenshihang/Downloads/PinyinIME-master/app/src/main/cpp/share/spellingtable.cpp",
+  "file": "/Users/chenshihang/Downloads/PinyinIME-master/app/src/main/cpp/share/spellingtable.cpp"
+},
+
+{
+  "directory": "/Users/chenshihang/Downloads/PinyinIME-master/app/.cxx/cmake/debug/x86",
+  "command": "/Users/chenshihang/develop/android-sdk-macosx/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android16 --gcc-toolchain=/Users/chenshihang/develop/android-sdk-macosx/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/chenshihang/develop/android-sdk-macosx/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot   -I/Users/chenshihang/Downloads/PinyinIME-master/app/src/main/cpp/src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -Wall -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/engine.dir/share/spellingtrie.cpp.o -c /Users/chenshihang/Downloads/PinyinIME-master/app/src/main/cpp/share/spellingtrie.cpp",
+  "file": "/Users/chenshihang/Downloads/PinyinIME-master/app/src/main/cpp/share/spellingtrie.cpp"
+},
+
+{
+  "directory": "/Users/chenshihang/Downloads/PinyinIME-master/app/.cxx/cmake/debug/x86",
+  "command": "/Users/chenshihang/develop/android-sdk-macosx/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android16 --gcc-toolchain=/Users/chenshihang/develop/android-sdk-macosx/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/chenshihang/develop/android-sdk-macosx/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot   -I/Users/chenshihang/Downloads/PinyinIME-master/app/src/main/cpp/src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -Wall -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/engine.dir/share/splparser.cpp.o -c /Users/chenshihang/Downloads/PinyinIME-master/app/src/main/cpp/share/splparser.cpp",
+  "file": "/Users/chenshihang/Downloads/PinyinIME-master/app/src/main/cpp/share/splparser.cpp"
+},
+
+{
+  "directory": "/Users/chenshihang/Downloads/PinyinIME-master/app/.cxx/cmake/debug/x86",
+  "command": "/Users/chenshihang/develop/android-sdk-macosx/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android16 --gcc-toolchain=/Users/chenshihang/develop/android-sdk-macosx/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/chenshihang/develop/android-sdk-macosx/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot   -I/Users/chenshihang/Downloads/PinyinIME-master/app/src/main/cpp/src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -Wall -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/engine.dir/share/utf16char.cpp.o -c /Users/chenshihang/Downloads/PinyinIME-master/app/src/main/cpp/share/utf16char.cpp",
+  "file": "/Users/chenshihang/Downloads/PinyinIME-master/app/src/main/cpp/share/utf16char.cpp"
+},
+
+{
+  "directory": "/Users/chenshihang/Downloads/PinyinIME-master/app/.cxx/cmake/debug/x86",
+  "command": "/Users/chenshihang/develop/android-sdk-macosx/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android16 --gcc-toolchain=/Users/chenshihang/develop/android-sdk-macosx/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/chenshihang/develop/android-sdk-macosx/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot   -I/Users/chenshihang/Downloads/PinyinIME-master/app/src/main/cpp/src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -Wall -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/engine.dir/share/utf16reader.cpp.o -c /Users/chenshihang/Downloads/PinyinIME-master/app/src/main/cpp/share/utf16reader.cpp",
+  "file": "/Users/chenshihang/Downloads/PinyinIME-master/app/src/main/cpp/share/utf16reader.cpp"
+},
+
+{
+  "directory": "/Users/chenshihang/Downloads/PinyinIME-master/app/.cxx/cmake/debug/x86",
+  "command": "/Users/chenshihang/develop/android-sdk-macosx/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android16 --gcc-toolchain=/Users/chenshihang/develop/android-sdk-macosx/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/chenshihang/develop/android-sdk-macosx/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Djni_pinyinime_EXPORTS -I/Users/chenshihang/Downloads/PinyinIME-master/app/src/main/cpp/src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -Wall -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/jni_pinyinime.dir/android/com_android_inputmethod_pinyin_PinyinDecoderService.cpp.o -c /Users/chenshihang/Downloads/PinyinIME-master/app/src/main/cpp/android/com_android_inputmethod_pinyin_PinyinDecoderService.cpp",
+  "file": "/Users/chenshihang/Downloads/PinyinIME-master/app/src/main/cpp/android/com_android_inputmethod_pinyin_PinyinDecoderService.cpp"
+},
+
+{
+  "directory": "/Users/chenshihang/Downloads/PinyinIME-master/app/.cxx/cmake/debug/x86",
+  "command": "/Users/chenshihang/develop/android-sdk-macosx/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android16 --gcc-toolchain=/Users/chenshihang/develop/android-sdk-macosx/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/chenshihang/develop/android-sdk-macosx/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Djni_pinyinime_EXPORTS -I/Users/chenshihang/Downloads/PinyinIME-master/app/src/main/cpp/src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -Wall -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/jni_pinyinime.dir/share/dictbuilder.cpp.o -c /Users/chenshihang/Downloads/PinyinIME-master/app/src/main/cpp/share/dictbuilder.cpp",
+  "file": "/Users/chenshihang/Downloads/PinyinIME-master/app/src/main/cpp/share/dictbuilder.cpp"
+},
+
+{
+  "directory": "/Users/chenshihang/Downloads/PinyinIME-master/app/.cxx/cmake/debug/x86",
+  "command": "/Users/chenshihang/develop/android-sdk-macosx/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android16 --gcc-toolchain=/Users/chenshihang/develop/android-sdk-macosx/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/chenshihang/develop/android-sdk-macosx/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Djni_pinyinime_EXPORTS -I/Users/chenshihang/Downloads/PinyinIME-master/app/src/main/cpp/src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -Wall -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/jni_pinyinime.dir/share/dictlist.cpp.o -c /Users/chenshihang/Downloads/PinyinIME-master/app/src/main/cpp/share/dictlist.cpp",
+  "file": "/Users/chenshihang/Downloads/PinyinIME-master/app/src/main/cpp/share/dictlist.cpp"
+},
+
+{
+  "directory": "/Users/chenshihang/Downloads/PinyinIME-master/app/.cxx/cmake/debug/x86",
+  "command": "/Users/chenshihang/develop/android-sdk-macosx/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android16 --gcc-toolchain=/Users/chenshihang/develop/android-sdk-macosx/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/chenshihang/develop/android-sdk-macosx/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Djni_pinyinime_EXPORTS -I/Users/chenshihang/Downloads/PinyinIME-master/app/src/main/cpp/src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -Wall -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/jni_pinyinime.dir/share/dicttrie.cpp.o -c /Users/chenshihang/Downloads/PinyinIME-master/app/src/main/cpp/share/dicttrie.cpp",
+  "file": "/Users/chenshihang/Downloads/PinyinIME-master/app/src/main/cpp/share/dicttrie.cpp"
+},
+
+{
+  "directory": "/Users/chenshihang/Downloads/PinyinIME-master/app/.cxx/cmake/debug/x86",
+  "command": "/Users/chenshihang/develop/android-sdk-macosx/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android16 --gcc-toolchain=/Users/chenshihang/develop/android-sdk-macosx/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/chenshihang/develop/android-sdk-macosx/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Djni_pinyinime_EXPORTS -I/Users/chenshihang/Downloads/PinyinIME-master/app/src/main/cpp/src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -Wall -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/jni_pinyinime.dir/share/lpicache.cpp.o -c /Users/chenshihang/Downloads/PinyinIME-master/app/src/main/cpp/share/lpicache.cpp",
+  "file": "/Users/chenshihang/Downloads/PinyinIME-master/app/src/main/cpp/share/lpicache.cpp"
+},
+
+{
+  "directory": "/Users/chenshihang/Downloads/PinyinIME-master/app/.cxx/cmake/debug/x86",
+  "command": "/Users/chenshihang/develop/android-sdk-macosx/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android16 --gcc-toolchain=/Users/chenshihang/develop/android-sdk-macosx/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/chenshihang/develop/android-sdk-macosx/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Djni_pinyinime_EXPORTS -I/Users/chenshihang/Downloads/PinyinIME-master/app/src/main/cpp/src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -Wall -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/jni_pinyinime.dir/share/matrixsearch.cpp.o -c /Users/chenshihang/Downloads/PinyinIME-master/app/src/main/cpp/share/matrixsearch.cpp",
+  "file": "/Users/chenshihang/Downloads/PinyinIME-master/app/src/main/cpp/share/matrixsearch.cpp"
+},
+
+{
+  "directory": "/Users/chenshihang/Downloads/PinyinIME-master/app/.cxx/cmake/debug/x86",
+  "command": "/Users/chenshihang/develop/android-sdk-macosx/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android16 --gcc-toolchain=/Users/chenshihang/develop/android-sdk-macosx/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/chenshihang/develop/android-sdk-macosx/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Djni_pinyinime_EXPORTS -I/Users/chenshihang/Downloads/PinyinIME-master/app/src/main/cpp/src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -Wall -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/jni_pinyinime.dir/share/mystdlib.cpp.o -c /Users/chenshihang/Downloads/PinyinIME-master/app/src/main/cpp/share/mystdlib.cpp",
+  "file": "/Users/chenshihang/Downloads/PinyinIME-master/app/src/main/cpp/share/mystdlib.cpp"
+},
+
+{
+  "directory": "/Users/chenshihang/Downloads/PinyinIME-master/app/.cxx/cmake/debug/x86",
+  "command": "/Users/chenshihang/develop/android-sdk-macosx/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android16 --gcc-toolchain=/Users/chenshihang/develop/android-sdk-macosx/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/chenshihang/develop/android-sdk-macosx/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Djni_pinyinime_EXPORTS -I/Users/chenshihang/Downloads/PinyinIME-master/app/src/main/cpp/src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -Wall -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/jni_pinyinime.dir/share/ngram.cpp.o -c /Users/chenshihang/Downloads/PinyinIME-master/app/src/main/cpp/share/ngram.cpp",
+  "file": "/Users/chenshihang/Downloads/PinyinIME-master/app/src/main/cpp/share/ngram.cpp"
+},
+
+{
+  "directory": "/Users/chenshihang/Downloads/PinyinIME-master/app/.cxx/cmake/debug/x86",
+  "command": "/Users/chenshihang/develop/android-sdk-macosx/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android16 --gcc-toolchain=/Users/chenshihang/develop/android-sdk-macosx/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/chenshihang/develop/android-sdk-macosx/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Djni_pinyinime_EXPORTS -I/Users/chenshihang/Downloads/PinyinIME-master/app/src/main/cpp/src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -Wall -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/jni_pinyinime.dir/share/pinyinime.cpp.o -c /Users/chenshihang/Downloads/PinyinIME-master/app/src/main/cpp/share/pinyinime.cpp",
+  "file": "/Users/chenshihang/Downloads/PinyinIME-master/app/src/main/cpp/share/pinyinime.cpp"
+},
+
+{
+  "directory": "/Users/chenshihang/Downloads/PinyinIME-master/app/.cxx/cmake/debug/x86",
+  "command": "/Users/chenshihang/develop/android-sdk-macosx/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android16 --gcc-toolchain=/Users/chenshihang/develop/android-sdk-macosx/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/chenshihang/develop/android-sdk-macosx/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Djni_pinyinime_EXPORTS -I/Users/chenshihang/Downloads/PinyinIME-master/app/src/main/cpp/src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -Wall -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/jni_pinyinime.dir/share/searchutility.cpp.o -c /Users/chenshihang/Downloads/PinyinIME-master/app/src/main/cpp/share/searchutility.cpp",
+  "file": "/Users/chenshihang/Downloads/PinyinIME-master/app/src/main/cpp/share/searchutility.cpp"
+},
+
+{
+  "directory": "/Users/chenshihang/Downloads/PinyinIME-master/app/.cxx/cmake/debug/x86",
+  "command": "/Users/chenshihang/develop/android-sdk-macosx/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android16 --gcc-toolchain=/Users/chenshihang/develop/android-sdk-macosx/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/chenshihang/develop/android-sdk-macosx/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Djni_pinyinime_EXPORTS -I/Users/chenshihang/Downloads/PinyinIME-master/app/src/main/cpp/src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -Wall -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/jni_pinyinime.dir/share/spellingtable.cpp.o -c /Users/chenshihang/Downloads/PinyinIME-master/app/src/main/cpp/share/spellingtable.cpp",
+  "file": "/Users/chenshihang/Downloads/PinyinIME-master/app/src/main/cpp/share/spellingtable.cpp"
+},
+
+{
+  "directory": "/Users/chenshihang/Downloads/PinyinIME-master/app/.cxx/cmake/debug/x86",
+  "command": "/Users/chenshihang/develop/android-sdk-macosx/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android16 --gcc-toolchain=/Users/chenshihang/develop/android-sdk-macosx/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/chenshihang/develop/android-sdk-macosx/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Djni_pinyinime_EXPORTS -I/Users/chenshihang/Downloads/PinyinIME-master/app/src/main/cpp/src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -Wall -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/jni_pinyinime.dir/share/spellingtrie.cpp.o -c /Users/chenshihang/Downloads/PinyinIME-master/app/src/main/cpp/share/spellingtrie.cpp",
+  "file": "/Users/chenshihang/Downloads/PinyinIME-master/app/src/main/cpp/share/spellingtrie.cpp"
+},
+
+{
+  "directory": "/Users/chenshihang/Downloads/PinyinIME-master/app/.cxx/cmake/debug/x86",
+  "command": "/Users/chenshihang/develop/android-sdk-macosx/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android16 --gcc-toolchain=/Users/chenshihang/develop/android-sdk-macosx/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/chenshihang/develop/android-sdk-macosx/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Djni_pinyinime_EXPORTS -I/Users/chenshihang/Downloads/PinyinIME-master/app/src/main/cpp/src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -Wall -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/jni_pinyinime.dir/share/splparser.cpp.o -c /Users/chenshihang/Downloads/PinyinIME-master/app/src/main/cpp/share/splparser.cpp",
+  "file": "/Users/chenshihang/Downloads/PinyinIME-master/app/src/main/cpp/share/splparser.cpp"
+},
+
+{
+  "directory": "/Users/chenshihang/Downloads/PinyinIME-master/app/.cxx/cmake/debug/x86",
+  "command": "/Users/chenshihang/develop/android-sdk-macosx/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android16 --gcc-toolchain=/Users/chenshihang/develop/android-sdk-macosx/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/chenshihang/develop/android-sdk-macosx/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Djni_pinyinime_EXPORTS -I/Users/chenshihang/Downloads/PinyinIME-master/app/src/main/cpp/src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -Wall -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/jni_pinyinime.dir/share/userdict.cpp.o -c /Users/chenshihang/Downloads/PinyinIME-master/app/src/main/cpp/share/userdict.cpp",
+  "file": "/Users/chenshihang/Downloads/PinyinIME-master/app/src/main/cpp/share/userdict.cpp"
+},
+
+{
+  "directory": "/Users/chenshihang/Downloads/PinyinIME-master/app/.cxx/cmake/debug/x86",
+  "command": "/Users/chenshihang/develop/android-sdk-macosx/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android16 --gcc-toolchain=/Users/chenshihang/develop/android-sdk-macosx/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/chenshihang/develop/android-sdk-macosx/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Djni_pinyinime_EXPORTS -I/Users/chenshihang/Downloads/PinyinIME-master/app/src/main/cpp/src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -Wall -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/jni_pinyinime.dir/share/utf16char.cpp.o -c /Users/chenshihang/Downloads/PinyinIME-master/app/src/main/cpp/share/utf16char.cpp",
+  "file": "/Users/chenshihang/Downloads/PinyinIME-master/app/src/main/cpp/share/utf16char.cpp"
+},
+
+{
+  "directory": "/Users/chenshihang/Downloads/PinyinIME-master/app/.cxx/cmake/debug/x86",
+  "command": "/Users/chenshihang/develop/android-sdk-macosx/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android16 --gcc-toolchain=/Users/chenshihang/develop/android-sdk-macosx/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/chenshihang/develop/android-sdk-macosx/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Djni_pinyinime_EXPORTS -I/Users/chenshihang/Downloads/PinyinIME-master/app/src/main/cpp/src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -Wall -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/jni_pinyinime.dir/share/utf16reader.cpp.o -c /Users/chenshihang/Downloads/PinyinIME-master/app/src/main/cpp/share/utf16reader.cpp",
+  "file": "/Users/chenshihang/Downloads/PinyinIME-master/app/src/main/cpp/share/utf16reader.cpp"
+},
+
+{
+  "directory": "/Users/chenshihang/Downloads/PinyinIME-master/app/.cxx/cmake/debug/x86",
+  "command": "/Users/chenshihang/develop/android-sdk-macosx/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android16 --gcc-toolchain=/Users/chenshihang/develop/android-sdk-macosx/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/chenshihang/develop/android-sdk-macosx/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Djni_pinyinime_EXPORTS -I/Users/chenshihang/Downloads/PinyinIME-master/app/src/main/cpp/src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -Wall -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/jni_pinyinime.dir/share/sync.cpp.o -c /Users/chenshihang/Downloads/PinyinIME-master/app/src/main/cpp/share/sync.cpp",
+  "file": "/Users/chenshihang/Downloads/PinyinIME-master/app/src/main/cpp/share/sync.cpp"
+}
+]
